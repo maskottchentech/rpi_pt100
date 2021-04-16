@@ -37,7 +37,7 @@ GAIN = 1
 # Print nice channel column headers.
 print('Reading ADS1x15 values, press Ctrl-C to quit...')
 print('| {0:>6} | {1:>6} | {2:>6} |'.format(*range(4)))
-print('-' * 39)
+print('-' * 37)
 
 
 # Measurements
